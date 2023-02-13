@@ -1,0 +1,22 @@
+
+  form{
+    width: 65%;
+    margin: 0 auto;
+  }
+  
+  button{
+    margin-top: 20px;
+    border-radius: 5px;
+    font-size: 40px;
+  }
+
+  table{
+    margin: 0 auto;
+    width: 50%;
+    text-align: center;
+    border: 1px solid black;
+    border-collapse: collapse;
+  }
+  table th{
+    border: 1px solid black;
+  }
